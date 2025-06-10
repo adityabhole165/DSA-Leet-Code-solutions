@@ -15,4 +15,8 @@
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
