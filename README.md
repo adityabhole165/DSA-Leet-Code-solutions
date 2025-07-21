@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
