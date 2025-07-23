@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
