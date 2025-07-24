@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
