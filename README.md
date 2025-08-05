@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1677-matrix-diagonal-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
