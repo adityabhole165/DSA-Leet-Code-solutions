@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0125-valid-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
