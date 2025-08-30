@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
