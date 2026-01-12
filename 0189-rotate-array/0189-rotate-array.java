@@ -1,5 +1,5 @@
 class Solution {
-    public void rotate(int[] nums, int k) {
+      public void rotate(int[] nums, int k) {
         int left =0;
         int n = nums.length;
         int right= n-1;
@@ -7,17 +7,8 @@ class Solution {
         reverse(nums,left,right);
         reverse(nums,0 , k-1);
         reverse(nums, k, n-1);
-        print(nums,n);
+        
     }
-
-    public void print( int[] nums, int n){
-        System.out.print("[");
-        for(int i =0; i< n; i++){
-            System.out.print( nums[i]+",");
-        }
-        System.out.print("]");
-    }
-
     public void reverse(int[] nums,int left,int  right){
         while(left < right){
             int temp = nums[left];
