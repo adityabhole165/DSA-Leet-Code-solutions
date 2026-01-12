@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0283-move-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | [0042-trapping-rain-water](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
