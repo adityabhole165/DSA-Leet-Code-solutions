@@ -13,12 +13,14 @@
 | [0042-trapping-rain-water](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0283-move-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -38,6 +41,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +68,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -76,4 +81,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
