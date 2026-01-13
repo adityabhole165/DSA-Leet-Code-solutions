@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1677-matrix-diagonal-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1677-matrix-diagonal-sum) |
+| [3453-separate-squares-i](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0287-find-the-duplicate-number) |
+| [3453-separate-squares-i](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
