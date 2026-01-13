@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1677-matrix-diagonal-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3453-separate-squares-i](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
