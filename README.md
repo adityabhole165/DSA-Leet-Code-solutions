@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 ## Trie
 |  |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -92,4 +95,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityabhole165/DSA-Leet-Code-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
