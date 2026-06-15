@@ -8,30 +8,25 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- import java.math.BigInteger;
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        BigInteger n1 = extract(l1);
-        BigInteger n2 = extract(l2);
-        BigInteger sum = n1.add(n2);
-
-        return buildList(sum.toString());
-    }
-    private BigInteger extract(ListNode node) {
-        StringBuilder sb = new StringBuilder();
-        while(node != null) {
-            sb.insert(0,node.val);
-            node = node.next;
-        }
-        return new BigInteger(sb.toString());
-    }
-
-    private ListNode buildList(String numStr) {
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
+        int carry = 0;
 
-        for(int i = numStr.length() - 1; i >= 0; i--){
-            curr.next = new ListNode(numStr.charAt(i) - '0');
+        while(l1 != null || l2 != null || carry != 0) {
+            int sum = carry;
+
+            if(l1 != null){
+                sum += l1.val;
+                l1 = l1.next;
+            }
+            if(l2 != null){
+                sum += l2.val;
+                l2 = l2.next;
+            }
+            carry = sum/10;
+            curr.next = new ListNode(sum % 10);
             curr = curr.next;
         }
         return dummy.next;
