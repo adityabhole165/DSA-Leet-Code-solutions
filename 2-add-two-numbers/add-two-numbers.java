@@ -17,7 +17,6 @@ class Solution {
 
         return buildList(sum.toString());
     }
-
     private BigInteger extract(ListNode node) {
         StringBuilder sb = new StringBuilder();
         while(node != null) {
