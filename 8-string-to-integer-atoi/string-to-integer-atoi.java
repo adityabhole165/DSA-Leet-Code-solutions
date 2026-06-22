@@ -1,32 +1,31 @@
 class Solution {
     public int myAtoi(String s) {
-        s = s.trim(); //skip leading whitespace.
-        if(s.isEmpty()) {
-            return 0;
-        }
         int i = 0, n = s.length();
         int sign = 1;
+        int result = 0;
 
-        if(s.charAt(i) == '+' || s.charAt(i) == '-') {
-            sign  = (s.charAt(i) == '-') ? -1 :1;
+        // Phase 1: skip leading whitespace
+        while (i < n && s.charAt(i) == ' ') i++;
+
+        // Phase 2: optional sign
+        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
+            sign = (s.charAt(i) == '-') ? -1 : 1;
             i++;
         }
 
-        long result = 0; //long absorbs Oveflow safely
+        // Phase 3: digits with inline overflow guard (pure int arithmetic)
+        while (i < n && Character.isDigit(s.charAt(i))) {
+            int digit = s.charAt(i) - '0';
 
-        while( i < n && Character.isDigit(s.charAt(i))) {
-            result = result * 10 + (s.charAt(i) - '0') ;
-            if(sign  == 1 && result > Integer.MAX_VALUE) {
-                return Integer.MAX_VALUE;
+            // Overflow check BEFORE multiplying — this is the key trick
+            if (result > (Integer.MAX_VALUE - digit) / 10) {
+                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
             }
-            if(sign == 1 && result > Integer.MAX_VALUE) {
-                return Integer.MAX_VALUE;
-            }
-            if(sign == -1 && -result < Integer.MIN_VALUE){
-                return Integer.MIN_VALUE;
-            }
+
+            result = result * 10 + digit;
             i++;
         }
-        return (int) (sign * result);
+
+        return sign * result;
     }
 }
