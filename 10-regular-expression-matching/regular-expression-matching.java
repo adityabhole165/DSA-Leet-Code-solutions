@@ -1,5 +1,5 @@
 class Solution {
-    //brute force code
+    //optimized  code
     public boolean isMatch(String s, String p) {
        int m = s.length(), n = p.length();
        boolean[][] dp = new boolean[m +1][n+1];
