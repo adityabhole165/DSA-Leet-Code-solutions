@@ -1,25 +1,16 @@
 class Solution {
     public int romanToInt(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        map.put('I', 1); map.put('V', 5); map.put('X', 10);
-        map.put('L', 50); map.put('C', 100); map.put('D', 500); map.put('M', 1000);
+        int[] val = new int[128];
+        val['I']=1; val['V']=5; val['X']=10; val['L']=50;
+        val['C']=100; val['D']=500; val['M']=1000;
 
         int total = 0;
         int n = s.length();
 
         for (int i = 0; i < n; i++) {
-            int curr = map.get(s.charAt(i));
-
-            if (i + 1 < n) {
-                int next = map.get(s.charAt(i + 1));
-                if (curr < next) {
-                    total -= curr;   // subtractive case, e.g. I before V
-                } else {
-                    total += curr;
-                }
-            } else {
-                total += curr; // last character always added
-            }
+            int curr = val[s.charAt(i)];
+            int next = (i + 1 < n) ? val[s.charAt(i + 1)] : 0;
+            total += (curr < next) ? -curr : curr;
         }
         return total;
     }
